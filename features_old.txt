@@ -1,0 +1,68 @@
+S-info-seek: S wants to S-info-seek from A
+A-info-seek: S believes A wants to S-info-seek
+A-knowledge: S believes A possesses the info discussed
+propositional: deals with the truth of a proposition
+A-ignorance: S believes A not to know or not to be aware of the info
+S-belief: S believes in the proposition
+S-weak-belief: S weakly believes in the proposition
+SA-weak-belief: S weakly believes A believes the proposition to be true
+SA-weak-unbelief: S weakly believes A believes the proposition to be false
+A-weak-belief: S believes that A weakly believes the semantic content to be true
+A-weak-unbelief: S believes that A weakly believes the semantic content to be false
+set: the semantic content is presented in a set of possibly mutually compatible possibilities
+xor: the semantic content is presented in a set of mutually exclusive possibilities
+inform: S provides A information
+replace-belief: S wants the content to replace a belief by A
+commit: S is committed to performing a certain action
+A-offer: A offered to perform a certain action
+no-commit: S is committed to not performing a certain action
+A-consent: the action discussed or performed by the dialog act is dependent upon A's consent
+S-consent: the action discussed or performed by the dialog act is dependant upon S's consent
+A-benefit: S believes the action discussed is beneficial to A
+SA-benefit: S believes that A believes the action discussed is beneficial to S
+A-harm: S believes the action discussed is harmful to A
+directed: S believes that A wants S to perform or consider the action
+direct: S wants A to perform a certain action
+no-direct: S wants A to not perform a certain action
+A-ability-assumption: S assumes that A is able to perform the action in the manner or with the frequency described.
+SA-ability-assumption: S assumes that A believes that S is able to perform the action
+proc-success: signals the successful processing of a previous utterance
+proc-failure: signals the unsuccessful processing of a previous utterance
+A-process: deals with A's processing of a previous utterance
+S-process: deals with S's processing of a previous utterance
+feedback-elicitation: elicits feedback on the processing of a previous utterance
+attention-feedback: deals specifically with the attention level of feedback
+perception-feedback: deals specifically with the perception level of feedback
+interpretation-feedback: deals specifically with the interpretation level of feedback
+evaluation-feedback: deals specifically with the evaluation level of feedback
+execution-feedback: deals specifically with the execution level of feedback
+turn-take: S wants to have the turn
+turn-offered: A offered S the turn
+turn-keep: S wants to keep the turn
+turn-assign: S wants A to take the turn
+turn-release: S wants to make the turn available to any participant
+stalling: S needs a little bit of time to formulate an utterance
+pausing: S wants to suspend the dialogue for a while
+contact-check : S wants to establish whether A is ready to receive messages from and to send messages to S
+contact-indication: S wants A to know that S is ready to send messages to and receive messages from A
+self-error-signal: S wants A to know that S has made a mistake in speaking
+retract: S wants to withdraw something said
+correct: S wants to correct an utterance
+speech: pertains to a participant's utterances
+self-speech: pertains to S's utterances
+allo-speech: pertains to A's utterances
+completion: S wants to help A to complete an utterance that A is struggling to complete
+open-dialog: S wants A to know that S is ready and willing to engage in a dialogue with A, of which the present utterance precedes any utterance with a activity-oriented function in the current dialogue utterance precedes any utterance with a activity-oriented function in the current dialogue
+preclose-dialog: S plans to end the current dialogue shortly
+topic-introduce: S wants to introduce the topic mentioned in the semantic content
+topic-shift-announce: S wants to change the topic
+topic-shift: S wants to shift the topic to the one mentioned in the semantic content
+greet: S wants A to be aware of S's presence; S is aware of A's presence; S believes that S and A are in a position to exchange messages; S puts pressure on A to acknowledge this
+return: the act responds to an initial similar act by A addressed to S
+self-introduce: S wants to make himself known to A; S puts pressure on A to acknowledge this
+apologize: S wants A to know that S regrets having made an error in perceiving, understanding, evaluating, or executing an utterance by A, or not having paid attention to, perceived well, or misunderstood an utterance from A, or being unable to evaluate or execute an utterance from A; S puts pressure on A to acknowledge this
+downplay-apology: S wants to mitigate A's feelings of regret; S has been pressured to respond to an apology by A adressed to S
+downplay: S wants to mitigate feelings A expressed in a previous utterance
+thanking: S wants A to know that S is grateful for what A has done in the current dialogue; S puts pressure on A to acknowledge this
+downplay-thanks: S wants to mitigate A's feelings of gratitude; S has been pressured to respond to a thanking act by A addressed to S
+valediction: S wants A to know that S intends the current utterance to be his final contribution to the dialogue; S puts pressure on A to acknowledge this

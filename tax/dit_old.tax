@@ -1,0 +1,309 @@
+% information seeking functions
+
+question
+-S-info-seek
+-A-knowledge
+propositional question
+-S-info-seek
+-A-knowledge
+-propositional
+check question
+-S-info-seek
+-A-knowledge
+-propositional
+-S-weak-belief
+posi-check
+-S-info-seek
+-A-knowledge
+-propositional
+-S-weak-belief
+-SA-weak-belief
+nega-check
+-S-info-seek
+-A-knowledge
+-propositional
+-S-weak-belief
+-SA-weak-unbelief
+set question
+-S-info-seek
+-A-knowledge
+-set
+choice question
+-S-info-seek
+-A-knowledge
+-xor
+
+% information providing functions
+
+inform
+-inform
+-S-belief
+-A-ignorance
+agreement
+-inform
+-S-belief
+-A-weak-belief
+disagreement
+-inform
+-S-belief
+-A-weak-unbelief
+correct
+-inform
+-S-belief
+-replace-belief
+answer
+-A-info-seek
+-inform
+-S-belief
+confirm
+-A-info-seek
+-inform
+-S-belief
+-A-weak-belief
+disconfirm
+-A-info-seek
+-inform
+-S-belief
+-A-weak-unbelief
+
+% commissive functions
+
+offer
+-commit
+-A-consent
+promise
+-commit
+-A-benefit
+threat
+-commit
+-A-harm
+address request
+-commit
+-directed
+-conditional
+accept request
+-commit
+-directed
+refuse request
+-no-commit
+-directed
+address suggestion
+-commit
+-directed
+-conditional
+-SA-ability-assumption
+-SA-benefit
+-S-consent
+accept suggestion
+-commit
+-directed
+-SA-ability-assumption
+-SA-benefit
+-S-consent
+refuse suggestion
+-no-commit
+-directed
+-SA-ability-assumption
+-SA-benefit
+-S-consent
+
+% directive functions
+
+instruct
+-direct
+-A-ability-assumption
+address offer
+-offered
+-S-consent
+accept offer
+-offered
+-direct
+-S-consent
+decline offer
+-offered
+-no-direct
+-S consent
+indirect request
+-direct
+-A-consent
+request
+-direct
+-A-consent
+-A-ability-assumption
+suggestion
+-direct
+-A-benefit
+-A-consent
+-A-ability-assumption
+
+% auto feedback functions
+
+auto positive
+-proc-success
+auto negative
+-proc-failure
+exec positive auto feedback
+-proc-success
+-execution-feedback
+eval positive auto feedback
+-proc-success
+-evaluation-feedback
+interpr positive auto feedback
+-proc-success
+percept positive auto feedback
+-proc-success
+attent positive auto feedback
+-proc-success
+exec negative auto feedback
+-proc-failure
+-execution-feedback
+eval negative autofeedback
+-proc-failure
+-evaluation-feedback
+percept negative auto feedback
+-proc-failure
+-perceptino-feedback
+attent negative auto feedback
+-proc-failure
+-attention-feedback
+
+% allo feedback functions
+
+allo positive
+-proc-success
+negative
+-proc-failure
+overall positive allo feedback
+-proc-success
+-execution-feedback
+execution negative allo feedback
+-proc-failure
+-execution-feedback
+evaluation positive allo feedback
+-proc-success
+-evaluation-feedback
+evaluation negative allo feedback
+-proc-failure
+-evaluation-feedback
+interpretation positive allo feedback
+-proc-success
+-interpretation-feedback
+interpretation negative allo feedback
+-proc-failure
+-interpretation-feedback
+perception positive allo feedback
+-proc-success
+-perception-feedback
+perception negative allo feedback
+-proc-failure
+-perception-feedback
+attention negative allo feedback
+-proc-failure
+-attention-feedback
+attention feedback elicitation
+-feedback-elicitation
+-attention-feedback
+perception feedback elicitation
+-feedback-elicitation
+-perception-feedback
+interpretation feedback elicitation
+-feedback-elicitation
+-interpretation-feedback
+evaluation feedback elicitation
+-feedback-elicitation
+-evaluation-feedback
+execution feedback elicitation
+-feedback-elicitation
+-execution-feedback
+
+% turn management functions:
+
+turn take
+-turn-take
+-A-consent
+turn accept
+-turn-take
+-turn-offered
+turn grab
+-turn-take
+turn keep
+-turn-keep
+turn assign
+-turn-assign
+turn release
+-turn-release
+
+% time management functions
+
+stalling
+-stalling
+pausing
+-pausing
+
+% contact management
+
+contact check
+-contact-check
+contact indication
+-contact-indication
+
+% own communication management functions
+
+self-error signal
+-self-error-signal
+retraction
+-retract
+-self-speech
+self-correction
+-correct
+-self-speech
+
+% partner communcation management functions
+
+completion
+-completion
+-allo-speech
+correct-misspeaking
+-correct
+-allo-speech
+
+% dialogue structure management functions
+
+opening
+-open-dialogue
+preclosing
+-preclose-dialogue
+topic introduction
+-topic-introduce
+topic shift announcement
+-topic-shift-announce
+topic shift
+-topic-shift
+
+% social obligations management
+
+initial greeting
+-greet
+return greeting
+-greet
+-return
+initial self-introduction
+-self-introduce
+return self-introduction
+-self-introduce
+-return
+apology
+-apologize
+apology-downplay
+-downplay
+-downplay-apology
+thanking
+-thank
+thanking-downplay
+-downplay
+-downplay-thanks
+initial goodbye
+-valediction
+return goodbye
+-valediction
+-return

@@ -1,0 +1,118 @@
+(P)articipant: (S)peaker, (A)ddressee
+
+wants(p, to)
+commits(p)
+conditions(p)
+knows(p)
+believes(p)
+weaklyBelieves(p)
+provides(p, f)
+performs(a, p) # if p, is an explicit performative
+options(a) # presents a possible action, can't be answered negatively
+has(tu)
+isInDialogue(d)
+holds(p)
+introduces(P)
+corrects(P)
+signalsError(P)
+retracts(P)
+complete(P)
+stall(d)
+pause(d)
+
++ past verbs (context)
+
+--
+
+(p)roposition
+
+isPropositional
+inSet # if both inSet and isPropositional, it's a case of the speaker tacking an or-clause to what had bee a yes-no question
+	inXORset
+isPositive
+isIndecisive
+isPartial
+inHistory # was already contributed
+isInformation # make a claim about the world
+isOpinion
+hasQuote
+isExpressive
+	isRegret
+	isThanks
+isEffective
+isSupportive # some emotional involvement and support
+isExclamation
+hasSubjectInversion
+isEcho # repeats or rephrase at least partially a previous utterance by A
+isOpen # for open-ended questions, e.g. "how about you?"
+isTagQuestion
+isSummary # summarizes a previous set of utterances
+isYesNo # any variant of "yes" or "no"
+
+(a)ction
+
+isBeneficial
+isHarmful
+
+(f)eedback
+
+isAllo
+isPositive
+isRepeatRephrase
+isExecution
+isEvaluation
+isInterpretation
+isPerception
+isAttention
+
+(tu)rn
+
+(to)pic
+
+(d)ialog
+
+--
+
+Notes :
+
+S.wants(S.knows(p)) == S.wants(p)
+S.wants(A.provides(p)) == S.wants(p)
+S.wants(A.knows(p)) == S.provides(p)
+S.believes(A.(X)) == A.(X)
+
+different rules of a definition may refer to different objects, marked with '
+
+P.() is a (p)roposition
+
+if a rule appears twice, the second one is a past element of context
+
+in DAMSL, only functions are taken into account (forward looking, backward looking)
+
+deal with subcategories with "other" categories (see DAMSL statements) where some classes are defined by not being other classes
+
+|| operator (DAMSL, conventional opening closing)
+- operator (benefitsFrom)
+
+multi-dimensionality (MAP TASK is one-dimensional)
+
+in DIT hierarchically superior item is a label, equivalent to "other", not in DAMSL: thus they are defined in DIT but not in DAMSL
+
+all P.() are equivalent to P.provides(P.()), therefore S.() == p where p.isPositive and !S.() == p where !p.isPositive. So for example, refuse request implicitly include rules S.provides(p) and !p.isPositive because of the rule !S.commits(S.performs(a))
+
+(i)nformation is required for some classes... e.g. answer : A.wants(S.provides(p)) only for p is information because S.commits(*) would not work as a fullfilment of the request... or p.isInformation
+
+when p.isInformation, what if !p.isInformation? e.g. check question : what if the proposition is S.commits(a)? "are you going to do it?" should we remove "isInformation" to better represent the intentions of the authors?
+
+hierarchy of object properties: all children share their parents' properties
+
+in SWBD-DAMSL, take ^ tags into account ? no
+
+check difference bk br
+
+f can have p properties (isEcho, isSummary)
+
+replace f by p with isFeedback property ; change isPositive ? or not... see by and bd
+
+problème des ^ qui peuvent être couplés entre eux
+
+remplacer !P.() par p.() et !p.isPositive

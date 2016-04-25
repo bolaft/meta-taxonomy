@@ -1,0 +1,17 @@
+representatives
+S.provides(p)
+p.isInformation
+
+directives
+S.wants(p) || S.options(A.performs(a))
+
+commissives
+S.commits(p)
+
+expressives
+S.performs(p)
+p.isExpressive
+
+declaratives
+S.performs(p)
+p.isEffective

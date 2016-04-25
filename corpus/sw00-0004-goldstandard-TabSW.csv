@@ -1,0 +1,170 @@
+Ds	opening	A	Right	sw00-0004.w1
+TiM	stalling;TuM:turnKeep	A	uh	sw00-0004.w2
+Ta	inform	A	actually I lived over in Europe for a couple of years	sw00-0004.w3-w13
+Ta	inform	A	I lived in Germany 	sw00-0004.w14-w17
+Ta	inform	A	and in Germany they don't have the jury system	sw00-0004.w18-w26
+Ta	inform	A	What they do is they have three judges basically	sw00-0004.w27-w32,w34,w35
+TiM	stalling	A	uh	sw00-0004.w33
+Ta	inform	A	And you get up there  	sw00-0004.w37-w41
+Ta	inform	A	and the prosecuting attorney presents his evidence  	sw00-0004.w42-w48
+Ta	inform	A	your defense attorney presents their evidence  	sw00-0004.w49-w54
+Ta	inform	A	those three guys take the evidence go off figure it out and then come back and say whether you're guilty or not	sw00-0004.w55-w76
+TiM	stalling;TuM:turnTake	B	Ou ou our	sw00-0004.w78-w80
+Ta	inform(Exemp:Set da22,da24,da26,da27,da28,da31)	B	our judicial system is in such total chaos	sw00-0004.w80-w87
+AutoF	autoPositive (Fe: da15)	A	<Laughter>	sw00-0004.w88
+Ta	inform	B	I think what they need to do is they need to somehow take the money out of it	sw00-0004.w89-w100,w102-w107
+TiM	stalling	B	<lipsmack>	sw00-0004.w101
+Tim	 stalling	B	I mean	sw00-0004.w108,w109
+Ta	 inform	B	when you have a man that's signed a statement saying he's guilty	sw00-0004.w111-w116,ww119-w123
+TiM	stalling	B	a a a	sw00-0004.w117-w119
+Ta	inform	B	we have a family called All day family	sw00-0004.w125,w126,w128-w133
+TiM	stalling	B	a a	sw00-0004.w127,w128
+Ta	inform (Expand:Expander da22)	B	They were all murdered	sw00-0004.w134-w137
+AutoF	autoPositive (Fe:da24)	A	Uh-huh	sw00-0004.w138
+Ta	inform (Expand:Expander da22)	B	All the people signed confessions	sw00-0004.w139-w143
+Ta	inform (Expand:Expander da26)	B	they went to a trial by jury	sw00-0004.w144-w150
+Ta	inform (Expand:Expander da26)	B	They been trying these people now for twentytwo years ever since I was a child	sw00-0004.w151-w165
+AutoF	autoPositive [surprise] (Fe: da28)	A	Wow	sw00-0004.w166
+TuM	turnTake	B	And	sw00-0004.w167
+Ta	inform (Expand:Expander da28)	B	what they've done is they've bought Mercedes after Mercedes after Mercedes is what they've done	sw00-0004.w168-w182
+Ta	inform (Eval:Judgement da28,da31)	B	 has nothing to do with justice whatsoever	sw00-0004.w183-w189
+TuM	turnTake	A	<Breathing>	sw00-0004.w190
+TiM	stalling	A	<Breathing> Well you know it's it's 	sw00-0004.w190-w195
+AutoF	autoPositve (Fe:da32)	A	it's one of those things	sw00-0004.w195-w199
+TiM	stalling	A	I mean uh uh	sw00-0004.w200-w203
+Ta	inform	A	I would have to look at it	sw00-0004.w204-w210
+TiM	stalling	A	I  if 	sw00-0004.w211,w212
+OCM	selfCorrection	A	the just the	sw00-0004.w217,w219,w220
+TiM	stalling	A	uh	sw00-0004.w218
+Ta	inform	A	if they did it with just the judges the police have to do a lot better job of making sure that their evidence is airtight	sw00-0004.w212-w216,w219-w38
+Ta	inform (Cause:Reason da41)	A	because the judges sitting in that kind of stuff day after day they know all the procedures	sw00-0004.w239-w255
+Ta	inform (Elab:Specific da42)	A	they know what's good and what isn't	sw00-0004.w256-w262
+Ta	inform	A		
+Ta	inform (Elab:Specific da42)	A	they'd be able to say 'm sorry you can't use this as evidence	sw00-0004.w263-w274,276
+TiM	stalling	A	uh	sw00-0004.w275
+TiM	stalling	A	you know	sw00-0004.w277,w278
+Ta	 inform (Cause:Reason da45)	A	because it was either illegally obtained or whatever	sw00-0004.w276-w286
+TuM	turnKeep	A	and	sw00-0004.w287
+TiM	stalling	A	you know	sw00-0004.w288,w289
+Ta	 inform	A	you wouldn't have this theatrics where the lawyer jumps up and presents it to the jury	sw00-0004.w290-w293,296-w304,w307-w309
+TiM	stalling	A	uh uh	sw00-0004.w294,w295
+TiM	stalling	A	to the to the	sw00-0004.w305-w308
+TiM	stalling	A	oh	sw00-0004.w315
+Ta	 inform	A	and then the judge says no disregard that	sw00-0004.w310-w316,w318,w319
+TiM	stalling	A	d disregard	sw00-0004.w317,w318
+Ta	 inform [certain]	A	Come on any jury's not going to  disregard the evidence you know <laughter>	sw00-0004.w320,w332
+TiM	stalling;TuM:turnTake	B	Uh	sw00-0004.w333
+Ta	agreement (Fu: da57)	B	that's true	sw00-0004.w334,w335
+TiM	stalling;TuM:turnKeep	B	I I I	sw00-0004.w336-w338
+Ta	inform	B	I think our judicial system is attorney welfare myself	sw00-0004.w338-w346
+Ta	agreement (Fu: da62)	A	That may very well be	sw00-0004.w347-w351
+TiM	stalling;TuM:turnKeep	B	I I	sw00-0004.w352,w353
+Ta	inform	B	I hold it in the utmost contempt	sw00-0004.w353-w359
+TiM	stalling;TuM:turnTake	A	Uh	sw00-0004.w360
+OCM	selfCorrection	B	The d my	sw00-0004.w361,w363,w364
+TiM	stalling	B	uh	sw00-0004.w362
+Ta	inform	B	my favorite is the police department	sw00-0004.w364-369
+Ta	inform (Cause:Reason da71)	B	<breathing> they're not aimed at the criminal  	sw00-0004.w370-w376
+Ta	inform (Substitution:Favored-alternative da72)	B	The judicial system is aimed at the citizens  	sw00-0004.w377-w384
+Ta	inform (Cause:Reason da73)	B	because you and I we have work schedules	sw00-0004.w385-w392
+Ta	inform (Cause:Reason da73)	B	we can be called at work  	sw00-0004.w393-w398
+Ta	inform (Cause:Reason da73)	B	we have Social Security numbers	sw00-0004.w399-w403
+Ta	inform (Cause:Reason da73)	B	they can trace us down	sw00-0004.w404-w408
+Ta	inform (Cause:Reason da73)	B	we have telephones	sw00-0004.w408-w411
+Ta	inform (Cause:Reason da73)	B	then we have checkbooks	sw00-0004.w412-w415
+Ta	inform (Cause:Reason da73)	B	 Criminals have none of these things	sw00-0004.w416-w421
+Ta	inform (Cause:Result da80)	B	They're real difficult to catch	sw00-0004.w422-w426
+Ta	inform (Cause:Reason da72,da73)	B	and if they do catch them they don't get any monetary gain out of it whereas we write a check	sw00-0004.w427-w442,w444-w447
+OCM	selfCorrection	B	us we	sw00-0004.w443-w444
+Ta	agreement (Fu: da82)	A	Yeah	sw00-0004.w448
+Ta	inform	B	So where do you think they target their efforts? 	sw00-0004.w449-w457
+Ta	agreement (Fu: da85)	A	That's true	sw00-0004.w458,w459
+TuM	turnKeep	A	((You'd))	sw00-0004.w460
+Ta	inform (Elab:Specific da85)	B	They target their efforts toward the citizens not the criminals	sw00-0004.w461-w467,w471-w473
+TuM	turnGrab	A	Well	sw00-0004.w469
+Ta	setQuestion	A	How would you go about changing it? 	sw00-0004.w474-w480
+TuM	turnTake	B	<Throat_clearing> 	sw00-0004.w481
+TiM	stalling	B	<Throat_clearing> You know	sw00-0004.w481-w483
+OCM	retraction	B	that's a	sw00-0004.w484,w485
+Ta	inform	B	I've nailed the problem down  	sw00-0004.w487-w491
+Ta	inform	B	but I	sw00-0004.w492,w493
+AutoF	autoPositive (Fe: da94)	A	<Laughter>	sw00-0004.w494
+AlloF	alloPositive (Fe: da95)	B	<Laughter>	sw00-0004.w495
+PCM	completion (Fe: da95)	A	Leave the details op to somebody else	sw00-0004.w496-w502
+AutoF	checkQuestion (Fe: da98)	A	huh	sw00-0004.w503
+AlloF	confirm (Fu: da99)	B	Yeah	sw00-0004.w504
+Ta	inform	B	I'm going to have to leave those details like what would you do about	sw00-0004.w505-w518
+Ta	inform	B	I think to begin with you would have	sw00-0004.w520-w524,w528-w530
+OCM	selfCorrection	B	you would h  you would have	sw00-0004.w525-530
+Ta	inform	B	like here in Atlanta area our crime rate is just astronomical	sw00-0004.w532-w542
+Ta	inform (Concession:Expectation-denier da104)	B	yet you go out on the streets and they're giving speeding tickets	sw00-0004.w543-w554
+Ta	agreement (Fu: da105)	A	Yeah	sw00-0004.w555
+Ta	inform	B	I think somehow you have to separate the revenues from	sw00-0004.w556-w565
+TuM	turnGrab	A	Well	sw00-0004.w566
+TiM	stalling	A	you know uh	sw00-0004.w567-w569
+Ta	inform	A	talking about the lawyers what might very well cause a drop in the number of lawyers and things like that is to set the fees for cases	sw00-0004.w570-w573,w576-w579,w582,w583,w585-w602
+TiM	stalling	A	you know	sw00-0004.w574,w575
+OCM	selfCorrection	A	do uh cause	sw00-0004.w580-w582
+TiM	stalling	A	a uh a	sw00-0004.w583-w585
+Ta	inform	A	It's kind of like do it in the similar vein like VCR or television repair	sw00-0004.w603-w606,w609-w614,w616,w618-w621
+TiM	stalling	A	do it do it	sw00-0004.w607-w610
+OCM	selfCorrection	A	similar like	sw00-0004.w615,w616
+TiM	stalling	A	uh	sw00-0004.w617
+Ta	inform (Elab:Specific da114)	A	If you take your TV in a lot of these TV repair places will say  well  I'll repair your TV for a hundred dollars	sw00-0004.w622-w645
+Ta	inform (Elab:Specific da114)	A	and if he gets in there and starts rooting around and finds something in there that's really tremendously wrong with it then he eats it	sw00-0004.w646-w670
+TiM	stalling	A	He he	sw00-0004.w671,w672
+Ta	inform (Elab:Specific da114)	A	he repairs it gives it back to you and takes your hundred dollars	sw00-0004.w672-w684
+TuM	turnKeep	A	Now	sw00-0004.w685
+Ta	inform (Elab:Specific da114)	A	if he comes in and says  I'll repair your VCR or somebody else's VCR for a hundred dollars gets in there	sw00-0004.w686-w695,w697-w709
+TiM	stalling	A	your your	sw00-0004.w696,w697
+Ta	inform (Elab:Specific da114)	A	maybe it's a blown fuse	sw00-0004.w711-w715
+Ta	inform (Elab:Specific da114)	A	takes him two minutes	sw00-0004.w716-w719
+Ta	inform (Elab:Specific da114)	A	he fixes it	sw00-0004.w720-w722
+Ta	inform (Elab:Specific da114)	A	he still charges you that hundred dollars	sw00-0004.w723-w729
+TuM	turnKeep	A	So	sw00-0004.w730
+Ta	inform	A	maybe if we did that with the lawyers so that whether it's a murder case or somebody suing somebody else you get X dollars for that case	sw00-0004.w731-w740,w743-w748,w755-w765
+TiM	stalling	A	you know	sw00-0004.w741,w742
+OCM	selfCorrection	A	a  a civil somebody suing somebody else	sw00-0004.w749,w752-w758
+TiM	stalling	A	you know	sw00-0004.w750,w751
+TiM	stalling	A	uh	sw00-0004.w754
+TuM	turnKeep	A	and	sw00-0004.w766
+Ta	inform	A	that's it.	sw00-0004.w767,w768
+TuM	turnGrab	B	Now	sw00-0004.w769
+Ta	inform	A	None of this	sw00-0004.w770-w772
+Ta	agreement (Fu: da130)	B	I firmly believe in that  	sw00-0004.w773-w777
+Ta	propositionalQuestion (Cause:Reason da140)	B	because when you get the most heinous of crimes have you ever noticed you always get the most renowned defense attorney	sw00-0004.w778-w798
+TiM	stalling	A	Oh	sw00-0004.w799
+Ta	answer (Fu: da140)	A	yeah	sw00-0004.w800
+Ta	inform	B	And here's this bum that didn't have a job	sw00-0004.w801-w809
+AutoF	autoPositive (Fe: da143)	B	Yeah	sw00-0004.w811
+Ta	inform	B	and he's got a attorney that you and I could never afford	sw00-0004.w813-w824
+Ta	agreement (Fu: da145)	A	That's true	sw00-0004.w825,w826
+Ta	setQuestion	B	Who's paying for that	sw00-0004.w827,w831-w833
+Ta	agreement (Fu: da145)	A	Yeah	sw00-0004.w829
+TuM	turnTake	A	Um	sw00-0004.w934
+TiM	stalling	A	y well you you know <laughter> 	sw00-0004.w835-w840
+Ta	answer (Fu: da147)	A	you're talking to part of them that's paying for that <laughter>	sw00-0004.w841-w851
+AutoF	autoPositive (Fe: da151)	B	<Laughter>	sw00-0004.w852
+Ta	agreement (Fe: da151)	B	Yeah	sw00-0004.w853
+Ta	inform	B	and you're talking to the other half that's paying for it <laughter> 	sw00-0004.w854-w865
+AutoF	autoPositive (Fe: da154)	A	<Laughter>	sw00-0004.w866
+Ta	agreement (Fe: da154)	A	That's right	sw00-0004.w867,w868
+TiM	stalling	A	You know	sw00-0004.w869,w870
+OCM	selfCorrection	A	that's it it's	sw00-0004.w871-w873
+TiM	stalling	A	its's it's	sw00-0004.w873,w874
+Ta	inform	A	it's amazing	sw00-0004.w874,w875
+TuM	turnKeep	A	and	sw00-0004.w876
+TiM	stalling	A	and and	sw00-0004.w876,w877
+Ta	inform	A	when you stop and look at it the judges they're all former lawyers	sw00-0004.w878-w884,w887,w888,w890-w893
+TiM	stalling	A	I mean	sw00-0004.w885,w886
+TiM	stalling	A	th they're	sw00-0004.w889,w890
+Ta	agreement (Fu: da163)	B	Yeah	sw00-0004.w894
+TuM	turnKeep;TiM:stalling	B	Well	sw00-0004.w895
+Ta	inform	B	that's another problem	sw00-0004.w896-w898
+Ta	inform	B	I think to really correct the judicial system you have to get the lawyers out of it <laughter>	sw00-0004.w899-w916
+AutoF	autoPositive (Fe: da170)	A	<Laughter>	sw00-0004.w917
+TiM	stalling 	B	I mean they're they're	sw00-0004.w918-w921
+Ta	inform	B	they're totally and morally bankrupt without any ethics whatsoever	sw00-0004.w921-w929
+TuM	turnKeep	B	and	sw00-0004.w930
+Ta	inform	B	with that type person running it you could expect that you	sw00-0004.w931-w936,w940-w944
+TiM	stalling	B	I mean you you	sw00-0004.w937-w940	

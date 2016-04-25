@@ -1,0 +1,202 @@
+TuM	turnAssign	A	Jimmy	sw01-0105.w1
+Ta	setQuestion	A	so how do you get most of your news?	sw01-0105.w2-w10
+TiM	stalling; TuM:turnTake	B	Well	sw01-0105.w11
+OCM	selfCorrection	B	I kind of I	sw01-0105.w12-w14,w16
+TiM	stalling	B	uh	sw01-0105.w15
+Ta	answer (Fu: da2)	B	I watch the national news every day, for one,	sw01-0105.w16-w18,w20-w25
+TiM	stalling	B	uh	sw01-0105.w19
+Ta	answer (Fu: da2)	B	I also read one or two papers a day 	sw01-0105.w26-w34
+TuM	turnKeep	B	and	sw01-0105.w35
+Ta	inform	B	I'm a news junkie	sw01-0105.w38,w41,w42,w43
+OCM	selfCorrection	B	I'm a, I'm pretty much a	sw01-0105.w36-w41
+TuM	turnKeep	B	and	sw01-0105.w44
+Ta	answer (Fu: da2)	B	I tune in to CNN a lot. 	sw01-0105.w45-w51
+AutoF	autoPositive [surprise] (Fe: da7, da9, da14)	A	Oh,  wow  	sw01-0105.w52,w53
+TuM	turnKeep	A	So	sw01-0105.w54
+Ta	setQuestion	A	when you say the morning news, or evening news or national news is when? /	sw01-0105.w55-w68
+TuM	turnTake;TiM:stalling	B	Uh	sw01-0105.w69
+Ta	answer [uncertain] (Fu: da17)	B	every evening at six thirty, I believe, I watch the national news	sw01-0105.w70-w81
+TuM	turnTake;TiM:stalling	A	Oh	sw01-0105.w82
+AutoF	autoPositive (Fe: da20)	A	okay	sw01-0105.w83
+TiM	stalling;TuM:turnKeep	A	Well	sw01-0105.w84
+Ta	inform	A	I would probably be a junkie or watch <laughter> CNN a lot	sw01-0105.w85-w91,w93-w97
+OCM	selfCorrection	A	s-,  watch	sw01-0105.w92,w93
+TuM	turnKeep	A	but	sw01-0105.w98
+Ta	inform (Concession:Expectation-denier da25)	A	I don't subscribe to cable	sw01-0105.w101-w103,w105-w107
+TiM	stalling	A	I don't, uh, I don't, uh	sw01-0105.w99-w104
+AutoF	autoPositive (Fe: da29)	B	Uh-huh	sw01-0105.w109
+TiM	stalling	A	be-, because	sw01-0105.w111,w112
+Ta	inform (Cause:Reason da29)	A	because of the poor service and also because I give to the United Way	sw01-0105.w112-w118,w120,w125-w130
+TiM	stalling	A	uh	sw01-0105.w124
+TuM	turnKeep;TiM:stalling	A	well	sw01-0105.w122
+TiM	stalling	A	I, uh, I	sw01-0105.w123-w125
+TuM	turnKeep	A	and so	sw01-0105.w131,w132
+Ta	inform (Cause:Result da29)	A	I figured that amount of money I just donate to that.	sw01-0105.w133-w143
+AutoF	autoPositive (Fe: da39)	B	Uh-huh	sw01-0105.w144
+AutoF	checkQuestion (Fe: da39)	B	as opposed to paying for cable	sw01-0105.w145-w150
+AlloF	confirm (Fe: da41)	A	Yeah	sw01-0105.w151
+Ta	inform	A	I take away a addiction <laughter>	sw01-0105.w152-w155,w157,w158
+TiM	stalling	A	uh	sw01-0105.w156
+AutoF	autoPositive (Fe: da43)	B	 <Laughter>	sw01-0105.w159
+Ta	inform (Restatement: da43)	A	 Oh, something	sw01-0105.w160,w161
+Ta	agreement (Fu: da43)	B	Yeah	sw01-0105.w162
+TuM	turnTake	A	Well	sw01-0105.w163
+OCM	retraction	A	I	sw01-0105.w164
+TiM	stalling	B	Uh	sw01-0105.w165
+OCM	retraction	B	I,  I 	sw01-0105.w167,w168
+Ta	inform	B	overall, the quality of the news you get of most sources I would say is pretty low. 	sw01-0105.w166,w170-w176,w179,w180,w182-w188
+TiM	stalling	B	o-, off 	sw01-0105.w177,w178
+TiM	stalling	B	uh	sw01-0105.w181
+OCM	retraction	B	It's	sw01-0105.w189
+Ta	inform (Elab:Specific da52)	B	usually you get pretty incomplete coverage 	sw01-0105.w191-w196
+TuM	turnKeep	B	and	sw01-0105.w197
+Ta	inform (Cause:Result da56)	B	that's one of the reasons why I try and get as many sources as possible, 	sw01-0105.w198-w202,w205-w214
+OCM	selfCorrection	B	where I,  why I 	sw01-0105.w203-w206
+Ta	inform (Cause:Reason da58)	B	because if you hear the same story from three different sources, then you get a much clearer picture of what is going on. You would hope,	sw01-0105.w215-w232,w234-w238
+TiM	stalling	B	of, of	sw01-0105.w233,w234
+TuM	turnKeep	B	but	sw01-0105.w242
+Ta	inform	B	still, you know, hard to say that what you've heard is what really is.	sw01-0105.w243-w248,w252-w259
+AutoF	autoPositive (Fe: da63);TiM:stalling	A	Oh	sw01-0105.w250
+TuM	turnTake	A	What	sw01-0105.w260
+TiM	stalling	A	What, what, uh	sw01-0105.w260-w262
+Ta	setQuestion	A	What newspapers do you read	sw01-0105.w261,w263-w266
+TuM	turnTake;TiM:stalling	B	Well	sw01-0105.w267
+Ta	answer (Fu: da68)	B	I read the local newspaper	sw01-0105.w268,w269,w271-w273
+TiM	stalling	B	uh	sw01-0105.w270
+TuM	turnKeep	B	and	sw01-0105.w274
+Ta	answer (Fu: da68)	B	I also try and read one of the major dailies like the CHICAGO TRIBUNE, or the NEW YORK TIMES or something like that.	sw01-0105.w275-w282,w284-w298
+TiM	stalling	B	uh	sw01-0105.w283
+AutoF	autoPositive (Fe: da73)	A	Uh-huh	sw01-0105.w299
+Ta	inform	A	For a while there I subscribed to NEW YORK TIMES, a couple of newspapers	sw01-0105.w300-w303,w306,w308-w312,w315-w318
+TiM	stalling	A	I, I, I, uh	sw01-0105.w304-w307
+TiM	stalling	A	a-, actually	sw01-0105.w313,w314
+TiM	stalling	A	uh, you know	sw01-0105.w320-w322
+TuM	turnKeep	A	well	sw01-0105.w326
+Ta	inform (Cause:Reason da76)	A	because my fiance - she was unemployed for a while 	sw01-0105.w319,w323-w325,w327-w332
+Ta	inform (Cause:Reason da76)	A	so she really needed to look at the help wanted ads	sw01-0105.w333,w334,w337-w341,w344,w346-w348
+TiM	stalling	A	you know	sw01-0105.w335,w336
+TiM	stalling	A	the,  <inhaling> the	sw01-0105.w342-w344
+OCM	selfCorrection	A	want-, help wanted	sw01-0105.w345-w347
+AutoF	autoPositive (Fe: da82)	B	Uh-huh	sw01-0105.w350
+Ta	 inform	A	and so often the newspapers are trying to compete with a lot of other sources of news	sw01-0105.w351-w353,w357-w369,w372
+OCM	selfCorrection	A	they,  they tr-, the newspapers are	sw01-0105.w354-w359
+OCM	selfCorrection;TiM:stalling	A	newspape-, uh, news	sw01-0105.w370-w372
+AutoF	autoPositive (Fe: da87)	B	Right	sw01-0105.w373
+TuM	turnTake	A	and	sw01-0105.w374
+Ta	inform	A	I don't know,	sw01-0105.w375-w377
+Ta	inform	A	NEW YORK TIMES is okay	sw01-0105.w378-w382
+TuM	turnKeep	A	but	sw01-0105.w383
+TiM	stalling	A	uh	sw01-0105.w384
+Ta	inform (Contrast:Arg2 da94)	A	but when you read a lot of this stuff, the quality of the writing has definitely gone down in the last ten years or so	sw01-0105.w383,w386-w393,w395-w410
+TiM	stalling	A	the, the	sw01-0105.w394,w395
+TuM	turnKeep	A	but	sw01-0105.w411
+AutoF	autoPositive (Fe: da97)	B	Uh-huh	sw01-0105.w413
+TiM	stalling	A	uh, I mean	sw01-0105.w414-w416
+TiM	stalling	A	they, they	sw01-0105.w417,w418
+Ta	inform (Elab:Specific da97)	A	they say it's  like the sixth grade reading level	sw01-0105.w418-w426
+Ta	inform (Elab:Specific da97; Contrast:Arg2 da103)	A	but I swear it's at least second or third grade sometimes.	sw01-0105.w427,w431-w439,w441
+AutoF	autoPositive (Fe: da103)	B	Right. /	sw01-0105.w429
+AutoF	autoPositive (Fe: da104)	B	<Laughter>	sw01-0105.w440
+AutoF	autoPositive (Fe: da104)	B	Pretty low	sw01-0105.w442,w443
+TuM	turnTake	A	 <Throat_clearing>	sw01-0105.w444
+Ta	inform	A	but, I don't know, I think if you listen to like NPR or something like	sw01-0105.w445-w448,w450-w460
+TuM	turnKeep;TiM:stalling	A	uh	sw01-0105.w449
+Ta	agreement (Fu: da109)	B	Right	sw01-0105.w461
+TiM	stalling	B	I, I	sw01-0105.w462,w463
+Ta	inform	B	I really like NPR a lot	sw01-0105.w463-w468
+Ta	agreement (Fu: da114)	A	That's pretty good.  /	sw01-0105.w469-w471
+TiM	stalling	A	uh	sw01-0105.w472
+TuM	turnKeep	A	and	sw01-0105.w473
+TiM	stalling	A	on, on, uh	sw01-0105.w479-w481
+Ta	inform	A	I like listening to that when I get a chance, when I'm in the car a long enough time to listen to it, because I	sw01-0105.w474-w478,w483-w496,w498-w503
+TiM	stalling	A	to, to	sw01-0105.w497,w498
+Ta	agreement (Fu: da119)	B	Right	sw01-0105.w504
+Ta	agreement (Fu: da119)	B	yeah	sw01-0105.w505
+Ta	inform	B	I miss NPR a lot also	sw01-0105.w506-w511
+Ta	inform	B	I really like them because they give, instead of being, as your newspaper or your TV news where you get a five minute blurb or a ten paragraph blurb, they go really in depth on topics which i think is good	sw01-0105.w512-w518,w521-w554
+TiM	stalling	B	uh	sw01-0105.w519
+TiM	stalling;TuM:turnTake	A	Uh	sw01-0105.w555
+TuM	turnTake	B	And	sw01-0105.w556
+OCM	retraction	B	they also	sw01-0105.w557
+Ta	inform	B	their editorial stand point seems to be a lot better than, say, your major network news and that kind of thing	sw01-0105.w560-w580
+TuM	turnTake	A	Well	sw01-0105.w581
+OCM	selfCorrection	A	McNeil, Neil	sw01-0105.w582,w584
+Ta	inform	A	Neil and Lehrer, they're pretty good too	sw01-0105.w584-w586,w600-w603
+Ta	inform	A	I guess one of them is leaving.	sw01-0105.w588,w589,w592-w596
+OCM	selfCorrection	A	he's leaving, one of them is leaving	sw01-0105.w590-w596
+AutoF	autoPositive (Fe: da134)	B	Uh-huh	sw01-0105.w597
+TuM	turnTake;TiM:stalling	A	uh	sw01-0105.w598
+TiM	stalling	A	they're, they're	sw01-0105.w599,w600
+TuM	turnKeep;TiM:stalling	A	uh	sw01-0105.w604
+Ta	checkQuestion	A	I guess a year ago you're probably watching CNN a lot, right?	sw01-0105.w605-w616
+Ta	confirm (Fu: da142)	B	Right <laughter> 	sw01-0105.w617,w618
+Ta	confirm (Fu: da142)	B	yeah	sw01-0105.w619
+Ta	inform (Expand: Expander da142)	A	Had that invasion or whatever it is	sw01-0105.w620-w626
+Ta	agreement (Fu: da145)	B	Sure was	sw01-0105.w627,w628
+TiM	stalling;TuM:turnTake	B	uh	sw01-0105.w629
+TiM	stalling	B	I, I don't know	sw01-0105.w631-w634
+Ta	inform	A	but I guess it's still a lot of hype	sw01-0105.w630,w635,w636,w640-w645
+OCM	selfCorrection	A	a lot of it's still a lot of	sw01-0105.w637-w644
+Ta	suggest (Exemp:Instance da150)	A	Look at the Smith trial	sw01-0105.w646-w651
+TiM	stalling	A	the, the	sw01-0105.w648,w649
+AutoF	autoPositive (Fe: da152)	B	Uh-huh	sw01-0105.w652
+Ta	inform (Expand:Expander da152)	A	I mean, that was a joke	sw01-0105.w653-w658
+Ta	agreement (Fu: da155)	B	Yeah that was	sw01-0105.w659-w661
+TuM	turnKeep	B	but	sw01-0105.w663
+Ta	inform (Contrast:Arg2 da155)	B	but then you also have things where they broadcast the Clarence Thomas hearings basically the whole length of them which I thought was really good.	sw01-0105.w663-w668,w672-w688,690,w691
+OCM	selfCorrection	B	where you, where they	sw01-0105.w669,w670,w672,w673
+TiM	stalling	B	uh	sw01-0105.w671
+TiM	stalling	B	 r-, really	sw01-0105.w689,w690
+Ta	agreement (Fu: da158)	A	Oh yeah, the NPR doing that, yeah, I know	sw01-0105.w692-w700
+Ta	inform (Expand:Expander da158)	A	I had some visitor, he was just, I don't know, fixated on that, just listened to it constantly	sw01-0105.w701,w702,w704-w708,w711-w717,w720-w723,w727
+TiM	stalling	A	uh	sw01-0105.w703
+TuM	turnKeep	A	and	sw01-0105.w706
+OCM	selfCorrection	A	just in-, just	sw01-0105.w709-w711
+AutoF	autoPositive (Fe: da163)	B	Uh-uh	sw01-0105.w725
+TuM	turnKeep:TiM:stalling	A	uh	sw01-0105.w728
+Ta	inform	A	and I guess that's good when it's live, if you'll really want that	sw01-0105.w729-w736,w739-w743
+OCM	selfCorrection	A	if you, if you'll	sw01-0105.w737-w740
+TuM	turnKeep	A	but	sw01-0105.w744
+Ta	inform (Contrast:Arg2 da170)	A	but that's not really providing you news. 	sw01-0105.w744-w750
+Ta	agreement (Fu: da173)	B	Right	sw01-0105.w751
+TiM	stalling	A	it's it's 	sw01-0105.w752,w753
+Ta	inform	A	it's more like a media event rather than reporting	sw01-0105.w753-w760,w767
+TiM	stalling:TuM:turnTake	B	Well	sw01-0105.w762
+Ta	inform	B	but the news that you would get from any other source is being generated from that event, which is something that's good also about C Span which I tune into every once in a while	sw01-0105.w769,w770,w773-w797,w799-w806
+TiM	stalling	B	ne-, news, news 	sw01-0105.w771-w773
+TiM	stalling	B	I, I	sw01-0105.w798,w799
+TiM	stalling	A	Oh	sw01-0105.w807
+AutoF	autoPositive [surprise] (Fe: da178)	A	really	sw01-0105.w808
+Ta	inform (Cause:Reason da182)	A	That's kind of boring to me, I think	sw01-0105.w809-w816
+Ta	agreement (Fu: da183)	B	Yeah, it is really kind of boring	sw01-0105.w817,w819-w824
+TiM	stalling	B	it, it	sw01-0105.w818,w819
+TuM	turnKeep	B	but	sw01-0105.w825
+TiM	stalling	B	you know	sw01-0105.w826,w827
+Ta	inform (Contrast:Arg2 da184)	B	but that's if you don't watch it there, then you're going to hear somebody else's canned report, somebody else's view about it	sw01-0105.w825,w828,w831-w844,w846-w851
+TiM	stalling	B	if, if	sw01-0105.w830,831
+TiM	stalling	B	uh	sw01-0105.w845
+TuM	turnKeep	B	and	sw01-0105.w852
+OCM	retraction	B	that's what you're supposed to	sw01-0105.w853-w855,w857-w859
+TiM	stalling	B	you're supposed, you're supposed	sw01-0105.w855-w858
+Ta	inform	B	if you watch the news, your opinion is going to be formed on what somebody else thought about it	sw01-0105.w861-w865,w868-w882
+OCM	selfCorrection	B	you're going, your opinion is going	sw01-0105.w866-w871
+OCM	selfCorrection	B	about, on 	sw01-0105.w875,w876
+Ta	agreement (Fu: da194)	A	Yeah	sw01-0105.w884
+Ta	inform (Contrast:Arg2 da194)	B	as opposed to actually watching it yourself and forming your own opinion, which I would  be much more in favor of forming my own opinion as opposed to following someone else's	sw01-0105.w886-w896,w898-w900,w902-w918
+OCM	selfCorrection	B	pinion, opinion	sw01-0105.w897,w898
+OCM	selfCorrection	B	haven't, would	sw01-0105.w901,w902
+Ta	agreement (Fu: da198)	A	Yeah	sw01-0105.w919
+Ta	inform (Fu: da198)	A	I guess that's true	sw01-0105.w920-w923
+TuM	turnTake	A	But	sw01-0105.w924
+Ta	inform	A	one of the ways that I get information is, every day when I log in on the computer I subscribe to this thing	sw01-0105.w925-w933,w935-w946,948,w949
+TiM	stalling	A	uh	sw01-0105.w934
+TiM	stalling	A	this, this	sw01-0105.w947,w948
+Ta	inform	A	it's free inside the company	sw01-0105.w950-w954
+Ta	inform	A	it's called INTELLECT	sw01-0105.w955-w957
+TuM	turnKeep	A	and	sw01-0105.w958
+TiM	stalling	A	and, and	sw01-0105.w958,w959
+TiM	stalling	A	uh	sw01-0105.w962
+Ta	inform	A	they basically, type out abstracts which are really literally, -	sw01-0105.w960,w961,w963-w969
+TiM	stalling	A	I've, I've	sw01-0105.w971,w972
+Ta	inform	A	I've actually read the actual articles	sw01-0105.w972-w977
+Ta	inform	A	they're pretty g	sw01-0105.w978-w980

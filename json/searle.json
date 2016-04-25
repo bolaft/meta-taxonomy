@@ -1,0 +1,1 @@
+[{"attributes": ["S.provides(p)", "p.isInformation"], "set_name": "-", "name": "representatives"}, {"attributes": ["S.wants(p) || S.options(A.performs(a))", "S.wants(p)"], "set_name": "-", "name": "directives"}, {"attributes": ["S.commits(p)"], "set_name": "-", "name": "commissives"}, {"attributes": ["S.performs(p)", "p.isExpressive"], "set_name": "-", "name": "expressives"}]

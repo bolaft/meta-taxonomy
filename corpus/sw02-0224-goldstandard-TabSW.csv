@@ -1,0 +1,378 @@
+DS	opening	A	Okay	sw02-0224.w1
+AutoF	autoPositive (Fe: da1)	B	All right  	sw02-0224.w2,w3
+TiM	stalling;TuM:turnKeep	B	Uh	sw02-0224.w4
+Ta	propositionalQuestion	B	do you have any friends that have children	sw02-0224.w5-w12
+Ta	answer (Fu: da5)	A	I do have friends that have children	sw02-0224.w13-w19
+Ta	answer (Fu: da5)	A	yes 	sw02-0224.w20
+Ta	setQuestion	B	And what do they say about finding adequate child care? 	sw02-0224.w21-w30
+Ta	inform (Cause:Reason da8)	B	I think that may be the key word 	sw02-0224.w32-w39
+Ta	agreement (Fu: da9)	A	I think that's correct  	sw02-0224.w40-w43
+Ta	inform	A	They're, relatively nonexistent from what I hear from my friends	sw02-0224.w44,w46,w47,w50-w56
+TiM	stalling	A	uh	sw02-0224.w45
+TiM	stalling	A	from uh from	sw02-0224.w48-w50
+Ta	inform (Elab:Specific da11 )	A	It seems like even when they have consulted day care centers that are reputable, that are sort of like a chain, if I can use that word, still you have to deal with the people that, happen to be operating it locally 	sw02-0224.w57-w59,w61-w84,w89-w97,w100-w105
+TiM	stalling	A	uh	sw02-0224.w60
+AutoF	autoPositive (Fe:da14)	B	Right 	sw02-0224.w86
+TiM	stalling	A	uh	sw02-0224.w88
+TiM	stalling	A	you know	sw02-0224.w98,w99
+TuM	turnKeep	A	and	sw02-0224.w106
+TiM	stalling	A	uh	sw02-0224.w107
+Ta	inform	A	it's just a matter of trust, you know	sw02-0224.w108-w111,w113-w116
+TiM	stalling	A	of, of	sw02-0224.w112,w113
+Ta	inform	A	I think they feel that these people are under qualified basically and  underpaid, 	sw02-0224.w117-w124,w126-w130
+TiM	stalling 	A	um	sw02-0224.w125
+TuM	turnKeep	A	and	sw02-0224.w131
+Ta	inform (Expand:Expander da23 )	A	I think that sort of goes hand in hand 	sw02-0224.w132-w140
+TiM	stalling	A	it's, it's	sw02-0224.w142,w143
+Ta	inform	A	so it's difficult for them	sw02-0224.w141,w143-w146
+TuM	turnTake	B	Well	sw02-0224.w147
+Ta	agreement (Fu: da28)	B	we certainly found that to be true 	sw02-0224.w148-w154
+AutoF	autoPositive (Fe: da30)	A	Huh-uh 	sw02-0224.w155
+TiM	stalling	B	Uh	sw02-0224.w156
+OCM	retraction	B	indeed we've, - 	sw02-0224.w157,w158
+Ta	inform	B	our children are now eleven and nine 	sw02-0224.w160-w166
+AutoF	autoPositive (Fe: da34)	A	Huh-uh 	sw02-0224.w167
+TuM	turnKeep	B	And	sw02-0224.w168
+Ta	inform	B	we moved away from institutionalized child care --	sw02-0224.w169-w175
+AutoF	autoPositive (Fe: da37)	A	Huh-uh 	sw02-0224.w177
+OCM	 Inform 	B	if we can call those chain kind of things, like that Uh, by that name	sw02-0224.w179-w187,w189,w190,w192-w194
+AutoF	autoPositive (Fe: da39)	A	Right 	sw02-0224.w195
+TiM	stalling	B	uh	sw02-0224.w191
+OCM	selfCorrection	B	like that, by that name	sw02-0224.w189,w190,192-w194
+AutoF	autoPositive (Fe: da42)	A	Right 	sw02-0224.w195
+Ta	inform (Expand:Expander da37)	B	And found that more creative avenues were the right answer for us	sw02-0224.w196-w198,w200-w208
+TiM	stalling	B	uh	sw02-0224.w199
+AutoF	autoPositive (Fe: da44)	A	Huh-uh  	sw02-0224.w209
+AutoF	autoPositive (Fe: da44)	A	Huh-uh 	sw02-0224.w210
+TiM	stalling	B	Uh	sw02-0224.w211
+Ta	inform	B	at one point in time we've had au pairs,	sw02-0224.w212-w220
+AutoF	autoPositive (Fe: da49)	A	Huh-uh 	sw02-0224.w221
+Ta	inform (Manner:Means da49)	B	by trading services with them, 	sw02-0224.w222-w226
+AutoF	autoPositive (Fe: da51	A	Huh-uh   	sw02-0224.w227
+TuM	turnKeep	B	and	sw02-0224.w228
+Ta	inform (Expand:Expander da49)	B	that worked for a while,  	sw02-0224.w229-w233
+Ta	inform (Contrast: Arg2 da54)	B	but adequate ones were really tough to find	sw02-0224.w234,w238-w244
+OCM	selfCorrection	B	they were really, adequate ones were really	sw02-0224.w235-w241
+Tak	Agreement (Fu: da55)	A	I'm sure that's true 	sw02-0224.w245-w248
+Ta	inform (Cause:Reason da55)	B	It takes that mixture of a very mature college student, who wants to do something and yet is willing to give the time, and the interest to the children	sw02-0224.w249-w258,w260-w272,w274-w279
+AutoF	autoPositive (Fe: da58)	A	Huh-uh   	sw02-0224.w259
+AutoF	autoPositive (Fe: da58)	A	Right 	sw02-0224.w273
+AutoF	autoPositive (Fe: da58)	A	Right  	sw02-0224.w280
+Ta	inform (Exemp:Expander da58)	A	I do have a friend, she and her roommate became live-in care givers	sw02-0224.w281-w285,w290-w297
+TiM	stalling	A	uh uh	sw02-0224.w287,w288
+OCM	retraction	A	that, -	sw02-0224.w286,w289
+Ta	inform	A	she and her roommate became live-in care givers  	
+TuM	turnKeep	A	and	sw02-0224.w298
+Ta	inform (Expand:Expander da65)	A	they loved it	sw02-0224.w299-w301
+Ta	inform (Elab:Specific da65)	A	They had stayed with this family from the time these children were small four or five years old, up until they were well into grade school	sw02-0224.w302-w314,w317-w329
+TiM	stalling	A	you know	sw02-0224.w315,w316
+TuM	turnKeep	a	And	sw02-0224.w330
+TiM	stalling	A	uh	sw02-0224.w331
+Ta	inform (Expand:Expander da65)	A	she was paid very well because the parents trusted them	sw02-0224.w332-w337,w340-w342
+OCM	selfCorrection	A	they, the parents	sw02-0224.w338-w340
+TuM	turnKeep	A	and	sw02-0224.w343
+Ta	inform	A	they had done such a good job 	sw02-0224.w344,w347-w352
+TiM	stalling	A	you know	sw02-0224.w345,w346
+Ta	inform	A	So I can see where someone, in a position like that, in a live-in capacity, would definitely be the way to go if you're lucky enough to have the financial  to be able to do that 	sw02-0224.w353,w355-w350,w362-w378,w380-w386,w389-w394
+TiM	stalling	A	um	sw02-0224.w354
+TiM	stalling	A	you know	sw02-0224.w360,w361
+TiM	stalling	A	you're, you're	sw02-0224.w379,w380
+TuM	turnTake	B	Well	sw02-0224.w395
+Ta	Agreement (Fu:da77)	B	that's true, 	sw02-0224.w396,w397
+AutoF	autoPositive (Fe: da82)	A	 Yeah   	sw02-0224.w398
+Ta	inform 	B	and  that's something that we're struggling with now 	sw02-0224.w399-w406
+AutoF	autoPositive (Fe: da84)	A	Yeah  	sw02-0224.w407
+Ta	inform	A	I think it's just a matter of priorities  	sw02-0224.w408-w415
+Ta	inform	A	it's a terrible thing to say when you're speaking of children in that way	sw02-0224.w420-w433
+TiM	stalling	A	It's uh you know it's	sw02-0224.w416-w419
+Ta	inform (Contrast:Arg2 da87)	A	 but  you still have to be realistic, as well, I think 	sw02-0224.w434-w444
+TiM	stalling; TuM:turnTake	B	Oh	sw02-0224.w445
+Ta	agreement (Fu: da89)	B	yeah	sw02-0224.w446
+AutoF	autoPositive (Fe: da92)	A	Yeah 	sw02-0224.w447
+AutoF	autoPositive (Fe:da92)	A	Yeah 	sw02-0224.w450
+Ta	inform	B	Much as other cultures disagree, our lives don't revolve around our children 	sw02-0224.w451-w462
+AutoF	autoPositive (Fe: da95)	A	Yeah  	sw02-0224.w463
+AutoF	autoPositive (Fe: da95)	A	Yeah  	sw02-0224.w464
+TuM	turnKeep	A	And	sw02-0224.w465
+Ta	inform	A	that's bad to have to admit, too, 	sw02-0224.w468-w474
+TiM	stalling	A	that's, that's, that's	sw02-0224.w466-w468
+Ta	inform (Cause:Reason da99)	A	but it's just, there's so much pressure when you're talking about two people that work outside the home 	sw02-0224.w475,w479-w495
+TiM	stalling	A	uh, you know	sw02-0224.w476-w478
+TiM	stalling	A	and, and	sw02-0224.w496,w497
+Ta	inform (Cause:Reason da101)	A	I think that is one reason why I continue to be without children 	sw02-0224.w498-w510
+OCM	retraction	A	I, - 	sw02-0224.w511
+Ta	inform	A	it's just such a responsibility	sw02-0224.w513-w517
+TiM	stalling	A	and, and	sw02-0224.w518,w519
+OCM	selfCorrection	A	when I've had friends that have said - when you hear people say	sw02-0224.w520-w532
+Ta	inform	A	when you hear people say, it alters your life forever, please take heed <laughter>	sw02-0224.w528-w532,w534-w542
+TiM	stalling	A	it, it	sw02-0224.w533,w534
+Ta	inform	A	Well, I realize that's true  	sw02-0224.w543-w547
+Ta	inform	A	so, it's such a responsibility 	sw02-0224.w548,w549,w551-w553
+TiM	stalling	A	uh	sw02-0224.w550
+TuM	turnTake	B	Well	sw02-0224.w554
+Ta	agreement (Fu:da112)	B	it certainly is	sw02-0224.w555-w557
+TiM	stalling	B	Uh	sw02-0224.w558
+Ta	request	B	if I can  ((   ))  the other side of the coin for a moment 	sw02-0224.w559-w572
+AutoF	autoPositive (Fe: da117)	A	Huh-uh 	sw02-0224.w573
+Ta	inform	B	It is such an honor and a thrill, to be a parent, that most of the time, it's worth it	sw02-0224.w574-w581,w584-w587,w589-w595
+TiM	stalling	A	Oh	sw02-0224.w582
+AutoF	autoPositive (Fe: da119)	A	yeah	sw02-0224.w583
+AutoF	autoPositive (Fe: da119)	A	 Huh-uh   	sw02-0224.w588
+AutoF	autoPositive (Fe: da119)	A	Yeah <laughter>  	sw02-0224.w597,w598
+Ta	agreement (Fe: da119)	A	Most of the time <laughter> 	sw02-0224.w599-w603
+TuM	turnTake	B	Well	sw02-0224.w604
+Ta	inform	B	I just have to be honest about it  	sw02-0224.w605-w612
+Ta	inform	B	It's not always worth it	sw02-0224.w613-w615,w619,w620
+AutoF	autoPositive (Fe: da127)	A	Yeah  	sw02-0224.w616
+TiM	stalling	A	Oh	sw02-0224.w617
+AutoF	autoPositive (Fe: da127)	A	sure	sw02-0224.w618
+AutoF	autoPositive (Fe: da127)	A	Sure  	sw02-0224.w621
+AutoF	autoPositive (Fe: da127)	A	Sure  	sw02-0224.w622
+AutoF	autoPositive (Fe: da127)	A	Sure 	sw02-0224.w623
+Ta	inform	B	There are those times when I think, gee,  if I didn't have children I could be out playing  (( bridge ))  or golf 	sw02-0224.w624-w646
+AutoF	autoPositive (Fe: da134);TuM:turnTake	A	Right  	sw02-0224.w647
+AutoF	autoPositive (Fe: da134)	A	Right  	sw02-0224.w648
+AutoF	autoPositive (Fe: da134)	A	Right  	sw02-0224.w649
+AutoF	autoPositive (Fe: da134)	A	Right  	sw02-0224.w650
+TuM	turnKeep	A	but	sw02-0224.w651
+Ta	inform	A	it's funny	sw02-0224.w654,w655
+TiM	stalling	A	you know	sw02-0224.w652,w653
+OCM	selfCorrection	A	I did, I had	sw02-0224.w656-w659
+TiM	stalling	A	you know	sw02-0224.w664,w665
+Ta	inform	A	I had a friend that said, before we always said we don't want children because we can't go off on the spur of the moment or this or that and the other 	sw02-0224.w658-w663,w666-w691
+TuM	turnKeep	A	and	sw02-0224.w692
+Ta	inform	A	she got older 	sw02-0224.w693-w695
+TuM	turnKeep	A	and	sw02-0224.w696
+Ta	inform (Concession: Expander da145)	A	she said, we never do those things anyway 	sw02-0224.w697,w698,w702-w707
+TiM	stalling	A	but, you know	sw02-0224.w699-w701
+TuM	turnKeep	A	So	sw02-0224.w708
+TiM	stalling	A	why <laughter> why 	sw02-0224.w709-w711
+TiM	stalling	A	you know	sw02-0224.w715,w716
+Ta	inform	A	why am I waiting	sw02-0224.w711-w714
+TiM	stalling	A	It's its	sw02-0224.w717,w718
+Ta	inform	A	It's just the way your attitude changes 	sw02-0224.w718-w724
+TuM	turnKeep	A	and	sw02-0224.w725
+Ta	inform (Restatement: Arg2 da156)	A	you mature I suppose 	sw02-0224.w726-w729
+Ta	inform	A	But the thing about the child care I have friends that struggle financially and they both do have to work 	sw02-0224.w730-w736,w740-w745,w747-w753
+TiM	stalling	A	I, you know, I	sw02-0224.w737-w740
+TiM	stalling	A	and and	sw02-0224.w746,w747
+Ta	inform	A	It's a matter not necessarily that she might want to stay home or he, as well, 	sw02-0224.w754-w758,w760-w770
+TiM	stalling	A	uh	sw02-0224.w759
+Ta	inform	A	 but, you know,  they need the money  	sw02-0224.w771-w777
+Ta	inform	A	And when I seen some of my friends that have taken that six week old baby you know, to someone else, it's just, I can imagine how emotional  it must be and multiplied by the fact that you don't really trust the person  or you're uncomfortable with the situation, as far as child care,	sw02-0224.w778,w780-w810,w814-w835
+TiM	stalling	A	uh	sw02-0224.w779
+TiM	stalling	A	and and you know	sw02-0224.w810-w813
+TiM	stalling	A	um	sw02-0224.w836
+Ta	inform	A	it's just a scary thing 	sw02-0224.w837-w841
+TuM	turnTake	B	Well	sw02-0224.w842
+Ta	inform	B	we were lucky when our children were that age, 	sw02-0224.w843-w851
+TuM	turnKeep	B	and	sw02-0224.w852
+Ta	inform	B	having lived in a community for a while we knew the person to whom we were entrusting our children	sw02-0224.w853-w860,w862-w872
+OCM	selfCorrection	B	and	sw02-0224.w861
+AutoF	autoPositive (Fe: da173)	A	Huh-uh  	sw02-0224.w873
+AutoF	autoPositive (Fe: da173)	A	That's a big plus	sw02-0224.w874-w877
+Ta	inform	B	And felt that feeling of safety	sw02-0224.w878,w879,w881,w884-w886
+TiM	stalling	B	that that	sw02-0224.w880,w881
+AutoF	autoPositive (Fe:da176)	A	 Right   	sw02-0224.w882
+AutoF	autoPositive (Fe: da177)	A	Right 	sw02-0224.w887
+TuM	turnKeep	B	And	sw02-0224.w888
+Ta	inform	B	were leaving them  ((   ))  small children	sw02-0224.w889-w895
+AutoF	autoPositive (Fe: da182)	A	Huh-uh 	sw02-0224.w896
+TuM	turnKeep	B	But	sw02-0224.w897
+Ta	inform	B	we also learned something from that experience as our children got older 	sw02-0224.w898-w909
+AutoF	autoPositive (Fe: da185)	A	Yeah 	sw02-0224.w910
+Ta	inform (Elab:Specific da185)	B	It's that care givers are not omniscient -- 	sw02-0224.w911-w918
+AutoF	autoPositive (Fe: da187)	A	Huh-uh 	sw02-0224.w919
+Ta	inform (Elab:Specific da185)	B	 -- they are not all things to all people --	sw02-0224.w920-w929
+AutoF	autoPositive (Fe: da189)	A	Right 	sw02-0224.w930
+Ta	inform (Elab:Specific da185)	B	 -- or all children 	sw02-0224.w931-w934
+AutoF	autoPositive (Fe: da191)	A	Right  	sw02-0224.w935
+AutoF	autoPositive (Fe: da191)	A	Right  	sw02-0224.w936
+AutoF	autoPositive (Fe: da191)	A	Yeah 	sw02-0224.w937
+Ta	inform (Elab:Specific da185)	B	The ones that are good with babies tend not to be good with toddlers 	sw02-0224.w938-w951
+AutoF	autoPositive (Fe: da195)	A	Huh-uh 	sw02-0224.w952
+AutoF	autoPositive (Fe: da195)	A	Huh-uh  	sw02-0224.w954
+Tim	stalling	A	I don't know,  	sw02-0224.w961-w963
+Ta	inform [uncertain] (Cause:Reason da195)	A	I think your patience level needs to increase as the child gets older <laughter>	sw02-0224.w964-w968,w970-w977
+OCM	selfCorrection	A	must, needs to	sw02-0224.w969-w971
+Ta	inform [uncertain]	A	I think that might be part of the problem with some people You know,   	sw02-0224.w979-w992
+Ta	inform (Contrast:arg1 da204,da207,da208))	A	taking care of a baby, I know, is not an easy thing,  	sw02-0224.w993-w1004
+Ta	inform	A	but when you have them in, their little feet are moving 	sw02-0224.w1005-w1010,w1012-w1016
+TiM	stalling	A	their, their	sw02-0224.w1011,w1012
+TuM	turnKeep	A	and	sw02-0224.w1017
+Ta	inform	A	you have to chase them down constantly 	sw02-0224.w1018-w1024
+Ta	inform	A	I'm sure that's a whole new ball game 	sw02-0224.w1025-w1032
+TiM	stalling	B	Oh	sw02-0224.w1033
+AutoF	autoPositive (Fe: da208)	B	yeah	sw02-0224.w1034
+AutoF	autoPositive (Fe: da208)	B	Yeah,  	sw02-0224.w1036
+Ta	inform	B	I have a nine year old that I would trade happily for a baby	sw02-0224.w1037-w1050
+AutoF	autoPositive (Fe: da212)	A	<Laughter> Oh,  really  	sw02-0224.w1051-w1053
+TuM	turnTake	A	Well	sw02-0224.w1054
+Ta	inform	A	you sound like you're pretty well passed the worst of it as far as worrying about, - 	sw02-0224.w1055-w1071
+OCM	selfCorrection	A	worrying about, since they're both in school, you don't have to worry about	sw02-0224.w1069-w1082
+Ta	inform	A	since they're both in school, you don't have to worry about a full-time person to take care of them  <<Voices fading in and out>> 	sw02-0224.w1072-w1095
+TiM	stalling:TuM:turnTake	B	Oh	sw02-0224.w1096
+Ta	inform	B	you don't know what happens after they get in school 	sw02-0224.w1097-w1106
+Ta	inform	A	<Laughter> That's something altogether different	sw02-0224.w1107-w1111
+TiM	stalling	A	uh	sw02-0224.w1112
+TiM	stalling:TuM:turnTake	B	Oh	sw02-0224.w1113
+Ta	agreement (Fu: da221)	B	yes	sw02-0224.w1114
+Ta	inform	B	Now we have one takes piano lessons	sw02-0224.w1115-w1117,w1119-w1122
+TiM	stalling	B	uh	sw02-0224.w1118
+AutoF	autoPositive (Fe: da226)	A	 Huh-uh   	sw02-0224.w1123
+Ta	inform (Elab:Specific da226)	B	 somewhere  on one afternoon  	sw02-0224.w1124-w1127
+TuM	turnKeep	B	and	sw02-0224.w1128
+Ta	inform	B	the other one, of course can't do the same thing	sw02-0224.w1129-w1138
+TiM	stalling	A	Oh	sw02-0224.w1139
+Ta	agreement (Fu: da231)	A	of course not 	sw02-0224.w1140-w1142
+Ta	inform (Restatement: Arg2 da231)	B	It has to be somewhere else  	sw02-0224.w1143-w1148
+Ta	inform	B	and  no  it's not adequate to sit and wait	sw02-0224.w1149-w1157
+Ta	agreement (Fu: da235)	A	<Laughter>  You can't do that  	sw02-0224.w1158-w1162
+Ta	agreement (Fu:da235)	A	No 	sw02-0224.w1163
+Ta	agreement (Fu: da236)	B	No 	sw02-0224.w1164
+Ta	agreement (Fu: da238)	A	No  	sw02-0224.w1165
+Ta	agreement (Fu: da239)	A	No 	sw02-0224.w1166
+OCM	retraction	B	That just, - 	sw02-0224.w1167-w1169
+Ta	agreement (Fu:da236)	B	that will not do 	sw02-0224.w1170-w1173
+Ta	agreement (Fu: da242)	A	That's out of the question,  	sw02-0224.w1174-w1178
+Ta	agreement (Fu: da242)	A	I'm sure 	sw02-0224.w1179,w1180
+Ta	agreement (Fu: da243)	B	Of course 	sw02-0224.w1181,w1182
+TuM	turnKeep	B	But	sw02-0224.w1184
+Ta	inform	B	we are helping,  you know	sw02-0224.w1185-w1189
+AutoF	autoPositive (Fe: da247)	A	Right  	sw02-0224.w1190
+AutoF	autoPositive (Fe: da247)	A	Right 	sw02-0224.w1191
+Ta	inform (Restatement:Arg2 da247)	B	We are being cooperative,  	sw02-0224.w1192-w1195
+Ta	setQuestion	B	what's wrong with you	sw02-0224.w1196-w1199
+AutoF	autoPositive (Fe: da251)	A	Right  	sw02-0224.w1200
+AutoF	autoPositive (Fe: da251)	A	Right 	sw02-0224.w1201
+Ta	inform	B	You don't understand this 	sw02-0224.w1202-w1205
+AutoF	autoPositive (Fe: da254)	A	Huh-uh 	sw02-0224.w1206
+Ta	inform	B	That's just the way their minds work  	sw02-0224.w1207-w1213
+TuM	turnKeep	B	And	sw02-0224.w1214
+Ta	inform	B	it's almost everyday 	sw02-0224.w1215-w1217
+AutoF	autoPositive (Fe: da258)	A	That's amazing  	sw02-0224.w1218,w1219
+Ta	inform	A	It's amazing that people actually, - 	sw02-0224.w1220-w1225
+Ta	inform	A	the stamina that you must draw from yourself to deal with it 	sw02-0224.w1226-w1230,w1233-w1239
+TiM	stalling	A	you know	sw02-0224.w1231,w1232
+Ta	inform	A	It must be interesting  	sw02-0224.w1240-w1243
+Ta	inform [uncertain]	A	I guess you find out that you're a much stronger person than you thought, maybe 	sw02-0224.w1244-w1258
+TuM	turnTake	B	Well	sw02-0224.w1259
+Ta	inform (Similarity:Arg2 da264)	B	I've been finding out that I really am a nice person	sw02-0224.w1260-w1270
+Ta	inform	B	((   ))  hit for many years -	sw02-0224.w1271-w1276
+AutoF	autoPositive (Fe: da267)	A	<Laughter>	sw02-0224.w1277
+Ta	inform (Cause:Reason da267)	B	((   )) because  I didn't need it 	sw02-0224.w1278-w1284
+AutoF	autoPositive (Fe: da269)	A	 <Laughter>  Huh-uh 	sw02-0224.w1285,w1286
+TuM	turnKeep	B	And	sw02-0224.w1287
+Ta	inform (Contrast:Arg2 da269)	B	now, I need it	sw02-0224.w1288-w1291
+Ta	inform (Restatement:Arg2 da272)	A	Now it's just a reservoir that you tend to regularly, I'm sure 	sw02-0224.w1292-w1303
+AutoF	autoPositive (Fe: da273)	B	Yeah  	sw02-0224.w1304
+TuM	turnKeep	B	And	sw02-0224.w1305
+Ta	inform (Elab:Specific da273)	B	it stays low a lot <laughter>	sw02-0224.w1306-w1311
+AutoF	autoPositive(Fe: da276)	A	<Laughter>	sw02-0224.w1312
+AutoF	autoPositive(Fe: da277)	B	 <Laughter>	sw02-0224.w1313
+TuM	turnTake	A	Well	sw02-0224.w1314
+Ta	propositionalQuestion	A	do you feel comfortable with them coming home after school until you and your wife get home 	sw02-0224.w1320-w1323,w1325-w1337
+TiM	stalling	A	um	sw02-0224.w1324
+Ta	answer (Fu: da280); TuM:turnGrab	B	Absolutely not 	sw02-0224.w1339,w1340
+AutoF	autoPositive (Fe: da282)	A	No  	sw02-0224.w1341
+AutoF	autoPositive (Fe: da282)	A	Yeah 	sw02-0224.w1342
+Ta	inform (Expand:Expander da282)	B	I mean one of them I would leave unsupervised any time, any place, any where	sw02-0224.w1343-w1349,w1352-w1361
+TiM	stalling	B	I would, I would	sw02-0224.w1350-w1353
+AutoF	autoPositive (Fe: da286)	A	Huh-uh 	sw02-0224.w1362
+TiM	stalling	B	Uh	sw02-0224.w1363
+Ta	inform (Contrast:Arg2 da286)	B	the other one I wouldn't leave unsupervised two minutes	sw02-0224.w1364-w1372
+AutoF	autoPositive (Fe: da290)	A	Yeah  	sw02-0224.w1373
+AutoF	autoPositive (Fe: da290)	A	Yeah  	sw02-0224.w1374
+Ta	inform (Elab:Broad da286, da290)	A	That's just a difference in kids, I suppose 	sw02-0224.w1375-w1382
+AutoF	autoPositive (Fe: da293)	B	That's true 	sw02-0224.w1383,w1384
+AutoF	autoPositive (Fe: da294)	A	Yeah 	sw02-0224.w1385
+Ta	checkQuestion	B	one leads the other	sw02-0224.w1388-w1391
+Ta	confirm (Fu: da296)	A	Huh-uh,  	sw02-0224.w1392
+Ta	confirm (Fu: da296)	A	yeah 	sw02-0224.w1393
+TuM	turnTake;TiM:stalling	B	And,  uh,  -	sw02-0224.w1394,w1395
+TuM	turnTake	A	and	sw02-0224.w1396
+TiM	stalling	A	it's, it's	sw02-0224.w1397,w1398
+Ta	inform (Expand:Expander da298)	A	it's the one that's going downhill,	sw02-0224.w1398-w1403
+TiM	stalling	A	is it, is it	sw02-0224.w1405-w1408
+Ta	propositionalQuestion	A	is it the one that needs more supervision that has a bad influence on the older or more mature one	sw02-0224.w1407-w1411,w1413-w1427
+TiM	stalling	A	needs, needs	sw02-0224.w1412,w1413
+Ta	answer (Fu: da305)	B	Of course 	sw02-0224.w1428,w1429
+AutoF	autoPositive (Fe:da307)	A	Yeah <laughter>  	sw02-0224.w1430,w1431
+Ta	inform	A	How unfortunate <laughter> 	sw02-0224.w1432-w1434
+TiM	stalling	B	You don't think, you don't think	sw02-0224.w1435-w1440
+Ta	checkQuestion	B	You don't think that good prevails 	sw02-0224.w1438-w1443
+TuM	turnTake	A	Well	sw02-0224.w1444
+TiM	stalling	A	I, I, I'm	sw02-0224.w1445-w1447
+Ta	inform	A	I'm living in a dream world, 	sw02-0224.w1447-w1452
+Ta	inform (Expand:Expander da314)	A	what do I know  	sw02-0224.w1453-w1456
+Ta	inform (Expand:Expander da315)	A	As I said, I don't have kids  	sw02-0224.w1457-w1463
+TuM	turnKeep	A	and	sw02-0224.w1464
+Ta	inform (Expand:Expander da315)	A	I'm an only child 	sw02-0224.w1465-w1468
+Ta	inform (Expand:Expander da315) (Elab:Broad da316,da318)	A	so  I've never been around children  	sw02-0224.w1469-w1474
+Ta	inform (Cause:Result da319)	A	So I'm sort of at a loss where that's concerned 	sw02-0224.w1475,w1477-w1485
+TiM	stalling	A	uh	sw02-0224.w1476
+Ta	inform (Contrast:Arg2 da320)	A	But I do hear my friends talk about it 	sw02-0224.w1486-w1494
+TiM	stalling	B	We, we're	sw02-0224.w1495,w1496
+Ta	inform	B	we're having such fun	sw02-0224.w1496-w1499
+Ta	inform	B	my wife and I were both only children 	sw02-0224.w1500-w1507
+AutoF	autoPositive (Fe: da325)	A	Huh-uh 	sw02-0224.w1508
+TuM	turnKeep	B	And	sw02-0224.w1509
+Ta	inform (Cause:Result da325)	B	we just couldn't wait to have two children so they would be such friends 	sw02-0224.w1510-w1523
+AutoF	autoPositive (Fe: da328)	A	Yeah <laughter> 	sw02-0224.w1524,w1525
+Ta	inform	B	Wrong 	sw02-0224.w1526
+Ta	inform (Expand:Expander da330)	A	<Laughter>  That's like World War Three every minute <laughter>  	sw02-0224.w1527-w1535
+TiM	stalling	A	I don't know  	sw02-0224.w1536-w1538
+TiM	stalling	A	I, I, I	sw02-0224.w1539-w1541
+Ta	inform	A	I have to admit, I was selfish as a child 	sw02-0224.w1541-w1546,w1546-w1551
+OCM	selfCorrection	A	self-, selfish	sw02-0224.w1547,w1548
+Ta	inform (Cause:Result da334)	A	I didn't want a brother or sister  	sw02-0224.w1552-w1558
+TuM	turnKeep	A	And	sw02-0224.w1559
+Ta	inform (Contrast:Arg2 da336)	A	now that I'm older, of course, it's different 	sw02-0224.w1560-w1567
+TiM	stalling	A	You know	sw02-0224.w1568,w1569
+Ta	inform	A	I think about, wouldn't it be nice, 	sw02-0224.w1572,w1574-w1577
+TiM	stalling	A	uh	sw02-0224.w1573
+TiM	stalling	A	 but, uh, anyway  -	sw02-0224.w1578-w1580
+Ta	suggest	B	Just make good friends 	sw02-0224.w1581-w1584
+AutoF	autoPositive (Fe: da343)	A	Yeah, oh,   	sw02-0224.w1585,w1586
+Ta	inform	A	I have wonderful friends  	sw02-0224.w1587-w1590
+AutoF	autoPositive (Fe: da343)	A	That's true  	sw02-0224.w1591,w1592
+Ta	inform (Expand:Expander da345)	A	my best friend is one child of ten  	sw02-0224.w1593-w1600
+TuM	turnKeep	A	And so	sw02-0224.w1601,w1602
+Ta	inform (Expand:Expander da347)	A	they just sort of adopted me as their eleventh child 	sw02-0224.w1603-w1606,w1609-w1614
+TiM	stalling	A	you know	sw02-0224.w1607,w1608
+Ta	inform (Eval:Judgment da349)	A	so that worked out pretty well  	sw02-0224.w1615-w1620
+Ta	inform	A	She never had to worry about taking anybody to child care because there was always somebody there older to deal with them,  	sw02-0224.w1621-w1642
+Ta	inform (Eval:Judgment da352)	A	so I guess, that's an alternative  	sw02-0224.w1643-w1648
+Ta	inform	A	If you could just, have a whole bunch <laughter>	sw02-0224.w1649-w1652,w1656-w1660
+TiM	stalling	A	um	sw02-0224.w1653
+PCM	completion (Fe: da354)	B	Have enough   	sw02-0224.w1654,w1655
+AutoF	autoPositive (Fe: da354)	B	<Laughter>	sw02-0224.w1661
+Ta	inform (Condition:Consequent da354)	A	By the time the youngest ones are there, you'll have older one to take care of them 	sw02-0224.w1662-w1678
+AutoF	autoPositive (Fe: da358)	B	That's true 	sw02-0224.w1679,w1680
+TiM	stalling	A	I don't know  	sw02-0224.w1681-w1683
+Ta	inform	A	When you see all these horror stories on television about child care  	sw02-0224.w1684-w1695
+TuM	turnKeep	A	and	sw02-0224.w1696
+Ta	inform (Eval:Judgment da361)	A	gosh	sw02-0224.w1697
+Ta	inform (Exemp:Instance da361)	A	I was seeing something on the television earlier about a little girl that's been telling her mother these terrible stories  	sw02-0224.w1701-w1720
+TuM	turnKeep	A	and	sw02-0224.w1721
+Ta	inform	A	of course people are denying it 	sw02-0224.w1722-w1727
+TuM	turnKeep	A	And	sw02-0224.w1728
+TiM	stalling	A	uh	sw02-0224.w1729
+Ta	inform (Restatement:Arg2 da361)	A	it's just frightening 	sw02-0224.w1730-w1732
+Ta	inform [certain]	A	It really is 	sw02-0224.w1733-w1735
+TuM	turnTake	B	Well	sw02-0224.w1736
+TiM	stalling	B	what, what's	sw02-0224.w1737,w1738
+Ta	inform	B	what's frightening is a parent to see things that you don't really don't understand	sw02-0224.w1738-w1745,w1747-w1752
+TiM	stalling	B	that, that	sw02-0224.w1746,w1747
+AutoF	autoPositive (Fe: da373)	A	Huh-uh  	sw02-0224.w1753
+AutoF	autoPositive (Fe: da373)	A	Huh-uh 	sw02-0224.w1754
+Ta	inform (Cause:Result da373)	B	And then  you don't really know what happened 	sw02-0224.w1755-w1762
+AutoF	autoPositive (Fe: da377)	A	Yeah 	sw02-0224.w1763
+Ta	inform (Exemp: Instance da373)	B	We gave up on one baby sitter because we came home one night and found pieces of ribbon	sw02-0224.w1764-w1780,w1782
+TiM	stalling	B	um	sw02-0224.w1781
+AutoF	autoPositive (Fe: da379)	A	Huh-uh 	sw02-0224.w1783
+TiM	stalling	B	you know	sw02-0224.w1784,w1785
+Ta	inform (Elab:Specific da379)	B	hair ribbon	sw02-0224.w1786,w1787
+AutoF	autoPositive (Fe: da383)	A	Huh-uh 	sw02-0224.w1789
+Ta	inform (Expand:Expander da379)	B	 -- tied in a chair	sw02-0224.w1791-w1794
+TiM	stalling	B	had, had	sw02-0224.w1798,w1799
